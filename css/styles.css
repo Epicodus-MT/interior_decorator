@@ -1,4 +1,19 @@
 .column {
   width: 300px;
   float: left;
+  border: 2px solid black;
+  height: 600px;
+  margin: 10px;
+}
+
+div#red {
+  background: #D99583;
+}
+
+div#yellow {
+  background: #F5E587;
+}
+
+div#green {
+  background: #C6F7A7;
 }
